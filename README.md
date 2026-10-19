@@ -2,115 +2,140 @@
 
 ### MERN Stack Developer | Full-Stack Web Developer
 
-**Building modern, responsive, and user-focused web applications with the MERN stack.**
+**Building responsive, scalable, and user-focused web applications with the MERN stack.**
 
-I'm a Computer Science graduate and Full-Stack Web Developer passionate about developing scalable web applications, building RESTful APIs, and creating intuitive user experiences. I enjoy turning real-world problems into practical software solutions and continuously improving my development skills.
+I'm a Computer Science graduate passionate about developing full-stack applications, designing RESTful APIs, implementing secure authentication, and creating intuitive user experiences. I enjoy solving real-world problems through clean, maintainable code and continuously expanding my technical skills.
 
-- 🔭 **Currently building:** HelpCircle — a community platform connecting people who need help with trusted local helpers.
-- 💻 **Core stack:** MongoDB, Express.js, React.js, Node.js.
+- 🔭 **Currently building:** HelpCircle — a community platform connecting people who need help with local helpers.
+- 💻 **Core Technologies:** MongoDB, Express.js, React.js, Node.js.
 - 🌱 **Currently learning:** Advanced backend development, secure authentication, and Agentic AI.
-- 🎯 **Career goal:** Contributing to impactful products as a Full-Stack or MERN Stack Developer.
-- 🤝 **Open to:** Junior Developer Roles, Internships, and Collaboration.
+- 🎯 **Career Focus:** MERN Stack Developer and Full-Stack Developer opportunities.
+- 🤝 **Open to:** Junior Developer roles, internships, and collaborative projects.
+
+🌐 [Portfolio](https://portfolio-muhammad-shakir.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-shakir-2a8242264/) · 🐙 [GitHub](https://github.com/MShakir7852)
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Frontend Development**
-
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend Development**
-
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
-**Database & Authentication**
-
+### Database, Authentication & State Management
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-**Tools & Platforms**
-
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. HelpCircle — Community Help Platform
+### 1. ShopZone — Full-Stack E-commerce Application
 
-A community-driven platform designed to connect people seeking assistance with relevant local helpers and service providers.
+A MERN stack e-commerce platform featuring customer shopping functionality and administrative management.
 
-- Community help requests and service categories.
-- Planned helper matching and location-based discovery.
-- Trust-focused profiles, reviews, and request tracking.
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB.
-
-🔗 [View Repository](https://github.com/MShakir7852/HelpCircle)
-
-### 2. ShopZone — Full-Stack E-commerce Application
-
-A MERN stack e-commerce application focused on online shopping, product management, authentication, and order processing.
-
+**Key Features**
 - Product and category management.
-- User authentication and admin functionality.
+- User authentication and role-based admin access.
 - Shopping cart and checkout workflow.
-- Order tracking and customer order management.
+- Order creation, order history, and tracking.
+- Product image uploads using Cloudinary.
+- Global state management using Redux Toolkit.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux Toolkit.
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Mongoose, Redux Toolkit, JWT, Cloudinary.
 
-🔗 [Explore My GitHub Repositories](https://github.com/MShakir7852)
+🔗 [View ShopZone Repository](https://github.com/MShakir7852/E-Commerce)
 
-### 3. Skillnax — Learning Management Platform
+### 2. Skillnax — Learning Management Platform
 
-A learning platform with course-related features and an administrative dashboard.
+An educational platform with course-related functionality and an administrative dashboard.
 
-- Course and content management.
-- Role-based user and admin functionality.
-- Secure authentication and media upload integration.
+**Key Features**
+- Educational content and course management.
+- User and administrator functionality.
+- JWT-based authentication and protected routes.
+- RESTful APIs and MongoDB data management.
+- Media upload integration using Cloudinary.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary.
 
-🔗 [Explore My GitHub Repositories](https://github.com/MShakir7852)
+🔗 [View Skillnax Repository](https://github.com/MShakir7852/SkillNax)
+
+### 3. HelpCircle — Community Help Platform
+
+A community-driven platform designed to connect people seeking assistance with local helpers and service providers.
+
+**Planned Features**
+- Community help requests and service categories.
+- Helper discovery and matching.
+- Trust-focused profiles and reviews.
+- Request tracking and location-based discovery.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB.
+
+🔗 [View HelpCircle Repository](https://github.com/MShakir7852/HelpCircle)
+
+### 4. Full-Stack To-Do Application
+
+A task management application demonstrating CRUD operations and full-stack integration.
+
+**Key Features**
+- Create, read, update, and delete tasks.
+- RESTful APIs using Express.js.
+- MongoDB database integration.
+- Responsive frontend interface.
+
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB.
+
+🔗 [View To-Do Application](https://github.com/MShakir7852/Todo-application)
 
 ---
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MShakir7852&show_icons=true&hide_border=true&rank_icon=github)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MShakir7852&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MShakir7852&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MShakir7852&layout=compact&hide_border=true" alt="Most-used programming languages" />
+</p>
 
 ---
 
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science (BSCS)**  
-The Islamia University of Bahawalpur
+The Islamia University of Bahawalpur  
+2022–2026 · CGPA: 3.78/4.00
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring new opportunities.
+I'm interested in building useful software, collaborating with developers, and exploring opportunities in full-stack web development.
 
-- 🌐 **Portfolio:** [muhammad-shakir.vercel.app](https://portfolio-muhammad-shakir.vercel.app/)
+- 🌐 **Portfolio:** [Explore my work](https://portfolio-muhammad-shakir.vercel.app/)
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/muhammad-shakir-2a8242264/)
-- 🐙 **GitHub:** [MShakir7852](https://github.com/MShakir7852)
+- 🐙 **GitHub:** [Explore my repositories](https://github.com/MShakir7852)
 
----
-
-⭐ **Thanks for visiting my profile!** Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile! Feel free to explore my projects and connect with me.
 
 *Building, learning, and improving — one project at a time.*
